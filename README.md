@@ -1,2 +1,5 @@
-# Task-2 of GRIP internship
-#To Explore Supervised Machine Learning
+# Task-2
+To Explore Supervised Machine Learning
+# Task-3 
+To Explore Unsupervised
+Machine Learning
